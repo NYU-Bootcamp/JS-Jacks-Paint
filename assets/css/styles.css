@@ -1,6 +1,8 @@
 body{
   font-family: 'Zen Kaku Gothic Antique', sans-serif;
  }
+
+ #main {text-align: center;}
  .dim{
     opacity: 0.1555;
   }
